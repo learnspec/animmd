@@ -29,6 +29,10 @@ See [SPEC.md](./SPEC.md) for the full format specification. Worked examples live
 | CertMD: macro-credentials | [learnspec/certmd](https://github.com/learnspec/certmd) |
 | ListenMD: speech-only episode scripts | [learnspec/listenmd](https://github.com/learnspec/listenmd) |
 
+## Maintainers
+
+This repository is part of the [LearnSpec](https://learnspec.org) suite, initiated and maintained by [memoneo](https://memoneo.app). Issues and pull requests are welcome.
+
 ## License
 
 [MIT](./LICENSE)
